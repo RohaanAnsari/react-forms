@@ -1,3 +1,5 @@
-export const RenderInput = () => {
-  return <>THis is where inputs will be rendered</>;
+const RenderInput = () => {
+  return <div>RenderInput</div>;
 };
+
+export default RenderInput;
